@@ -11,8 +11,9 @@ public class Primo  extends Applet
 	 */
 	private static final long serialVersionUID = 1L;
 
-	public void paint( Graphics g )
-    {   int xBase   = 20;
+	public void paint( Graphics g )  {   
+		
+		int xBase   = 20;
         int top     = 20;
         int yScale  = 200;
         int xAxis   = 360;
